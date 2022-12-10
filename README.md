@@ -5,7 +5,8 @@
   The model uses K Means algorithm to cluster similar songs based on numerous song fearures.
 
   This Project contains extensive data analysis to find the best features while training the model. 
-  I used univariate and bivariate analysis to find the corelation between features and what affects the similarity between songs.
+  
+  Here, I use univariate and bivariate analysis to find the corelation between features and what affects the similarity between songs.
 
   ![image](https://user-images.githubusercontent.com/70202348/173811955-cbc725d2-062c-4f4b-9a1e-217e6bb26e35.png)
 
