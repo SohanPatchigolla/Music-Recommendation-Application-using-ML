@@ -27,4 +27,4 @@
   ![image](https://user-images.githubusercontent.com/70202348/173812584-7c081e9f-1ca5-4be1-807d-30f75d17bf48.png)
 
 # Note:
-This program follows unsupervised learning method, it does not need a testing dataset to predict outputs.
+This program follows unsupervised learning method.
