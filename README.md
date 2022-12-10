@@ -28,4 +28,4 @@ I created a menu driven program to take user input and recommecd the top 5 close
 ![image](https://user-images.githubusercontent.com/70202348/173812584-7c081e9f-1ca5-4be1-807d-30f75d17bf48.png)
 
 # Note:
-This is an this program follows unsupervised learning method, it does not need a training and testing dataset to predict outputs.
+This program follows unsupervised learning method, it does not need a training and testing dataset to predict outputs.
