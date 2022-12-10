@@ -21,7 +21,7 @@
 
   # 3) Predictions
 
-  I created a menu driven program to take user input and recommecd the top 5 closes songs.
+  I created a menu driven program to take user input and recommend the top 5 closest songs.
 
   ![image](https://user-images.githubusercontent.com/70202348/173812584-7c081e9f-1ca5-4be1-807d-30f75d17bf48.png)
 
